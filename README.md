@@ -2,7 +2,7 @@
 
 I'm a data science enthusiast from Algeria, passionate about hacking things together with code.
 
-🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/nouha)!
+🌐 Connect with me on [LinkedIn](www.linkedin.com/in/nouha-benzine-5106a819b)!
 
 <details>
 <summary>
@@ -13,14 +13,9 @@ I'm a data science enthusiast from Algeria, passionate about hacking things toge
 
 #### GitHub stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=NouhaBz&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
 </a>  
 
-- Latest blog post: <a class="post" href="YOUR_BLOG_POST_LINK">"YOUR_BLOG_POST_TITLE" (published on YOUR_BLOG_POST_DATE)</a>
-
-Biggest supporters of my OSS work ($25 or more in [my tiers](YOUR_SPONSORS_TIER_LINK)):
-- [Supporter 1](SUPPORTER_1_GITHUB_LINK)
-- [Supporter 2](SUPPORTER_2_GITHUB_LINK)
 
 ### What I do
 

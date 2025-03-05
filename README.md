@@ -3,7 +3,7 @@
 
 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/nouha-benzine-5106a819b)!
 
-<details>
+
 <summary>
   More stuff about me
 </summary>

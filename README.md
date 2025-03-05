@@ -1,6 +1,5 @@
 # Hi everyone :wave:
 
-I'm a data science enthusiast from Algeria, passionate about hacking things together with code.
 
 🌐 Connect with me on [LinkedIn](www.linkedin.com/in/nouha-benzine-5106a819b)!
 
